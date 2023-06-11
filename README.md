@@ -10,3 +10,7 @@ Here are some of the skills I have developed:
 - Machine Learning: [Numpy, Pandas, Matplotlib, Scikit-learn]
 - Software Development
 
+My Links:
+
+- LinkedIn: [https://www.linkedin.com/in/fady-george-0399b0272/]
+- Twitter: [https://twitter.com/FadyGeo20459193]
